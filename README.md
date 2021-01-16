@@ -23,6 +23,8 @@ This assignment through Triliogy/WASHU Coding Bootcamp was to give the opportuni
 
 * https://www.dreamstime.com/ - background image
 
+* Font Awesome v5.8.1: https://use.fontawesome.com/
+
 * Reference material for resume & social media updates provided by '© 2020 Trilogy Education Services, a 2U, Inc. brand', 'Coding Boot Camp Career Services © 2020.' All Rights Reserved.
 
 ## License
