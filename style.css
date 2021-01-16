@@ -1,0 +1,86 @@
+/* Used throughout site pages */
+
+body {
+    background-image: url(./Images/wood_background.jpg);
+    background-repeat: repeat;
+    /* adds spacing to account for sticky footer */
+    margin-bottom: 200px;
+}
+
+header {
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-size: larger;
+}
+
+.navbar-brand {
+    background-color: turquoise;
+    font-size: x-large;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+
+/* hover state brand name */
+
+.navbar-brand:hover {
+    background-color: lightgrey;
+    color: black;
+}
+
+section {
+    background-color: white;
+    border: lightgrey 2px solid;
+}
+
+section h1 {
+    border-bottom: grey 1px solid;
+    color: turquoise;
+    font-family: 'IM Fell DW Pica SC', serif;
+}
+
+
+/* Image on About Me page */
+
+#about-me-img {
+    max-width: 200px;
+}
+
+
+/* card title on Portfolio */
+
+.card-title {
+    font-family: 'IM Fell DW Pica SC', serif;
+}
+
+
+/* button styling */
+
+.btn-primary {
+    border-color: teal;
+    background-color: turquoise;
+    color: black;
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-size: larger;
+}
+
+
+/* button styling hover state */
+
+.btn-primary:hover {
+    border-color: darkgrey;
+    background-color: lightgrey;
+    color: black;
+}
+
+
+/* footer carries through on all pages */
+
+footer {
+    background-color: darkgrey;
+    border-top: turquoise 8px solid;
+    color: lightgrey;
+}
+
+footer img {
+    max-width: 70px;
+}
