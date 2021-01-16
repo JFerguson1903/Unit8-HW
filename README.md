@@ -1,23 +1,17 @@
-# Unit 2 Homework - Responsive Portfolio
+# Unit 8 Homework - Professional Materials
 
-## Decription
+## Description
 
-This site was created using Bootstraps CSS Framework for a mobile responsive portfolio.  It features a navbar, responsive layout and images, and a sticky footer.  The minimum requirements for the assignment are as follows: 
+This assignment through Triliogy/WASHU Coding Bootcamp was to give the opportunity to update my "portfolio page and other materials to build toward being employer-competitive". The requirements for the assignment are as follows: 
 
-- Functional, deployed application.
-- GitHub repository with README describing the project.
-- Navbar must be consistent on each page.
-- Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
-- All links must work.
-- Must use semantic html.
-- Each page must have valid and correct HTML. (use a validation service)
-- Must contain your personalized information. (bio, name, images, links to social media, etc.)
-- Must properly utilize Bootstrap components and grid system.
-- (BONUS) Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site.
+- Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
+- Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+- Submit an updated resume
+- Submit an updated LinkedIn profile
 
 ## Usage
 
-[Click here](https://jferguson1903.github.io/Unit2-HW/) to access the deployed application pictured below.
+[Click here](https://jferguson1903.github.io/Unit8-HW/) to access the updated deployed application pictured below.
 
 ![about_me](https://user-images.githubusercontent.com/72481828/99126540-fee5e480-25cb-11eb-94bf-6f7198062020.png)
 
@@ -27,7 +21,9 @@ This site was created using Bootstraps CSS Framework for a mobile responsive por
 
 * https://www.webhostingsecretrevealed.net/free-icons/ - social media icons
 
-* https://depositphotos.com/ - background image
+* https://www.dreamstime.com/ - background image
+
+* Reference material for resume & social media updates provided by '© 2020 Trilogy Education Services, a 2U, Inc. brand', 'Coding Boot Camp Career Services © 2020.' All Rights Reserved.
 
 ## License
 
