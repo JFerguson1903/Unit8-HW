@@ -13,7 +13,7 @@ This assignment through Triliogy/WASHU Coding Bootcamp was to give the opportuni
 
 [Click here](https://jferguson1903.github.io/Unit8-HW/) to access the updated deployed application pictured below.
 
-![about_me](https://user-images.githubusercontent.com/72481828/99126540-fee5e480-25cb-11eb-94bf-6f7198062020.png)
+![about_me](https://jferguson1903.github.io/Unit8-HW/Images/HW-8.jpg)
 
 ## Credits
 
